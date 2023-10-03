@@ -1,0 +1,29 @@
+[
+    {
+      "title": "Camisa",
+      "description": "Camisa de algodón",
+      "price": 20.99,
+      "thumbnail": "shirt.jpg",
+      "code": "P123",
+      "stock": 50,
+      "id": 2
+    },
+    {
+      "title": "Pantalón",
+      "description": "Pantalón de algodon",
+      "price": 25.99,
+      "thumbnail": "pants.jpg",
+      "code": "P456",
+      "stock": 30,
+      "id": 3
+    },
+    {
+      "title": "Zapatillass",
+      "description": "Zapatillass deportivos",
+      "price": 35.99,
+      "thumbnail": "shoes.jpg",
+      "code": "P789",
+      "stock": 40,
+      "id": 4
+    }
+  ]

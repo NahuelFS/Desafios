@@ -1,0 +1,19 @@
+
+{
+  "name": "desafio3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio3.js",
+  "type": "module",
+  "scripts": {
+    "start": "desafio3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
+
